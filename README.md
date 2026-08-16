@@ -7,7 +7,7 @@ August 16, 2026
 bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This Project explores bikeshare in new york city
 
 ### Files used
 Include the files used
